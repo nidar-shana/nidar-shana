@@ -2,7 +2,7 @@
 
 At age 8, I typed `FD 20` and `RT 90` into Logo and watched a small triangle draw a square. I was thoroughly unprepared for how much of my life this would go on to explain.
 
-Since then, matters have progressed in an orderly fashion: Logo → Java (97% in the board exam, a national-level coding selection in Class 12, and a firm belief that semicolons are load-bearing) → a Bachelor's in **Mathematics, Physics and Computer Science**, three subjects that agree with each other far less often than universities imply → a Master's in Physics, where MATLAB and Python quietly became load-bearing infrastructure rather than "electives."
+Since then, matters have progressed in an orderly fashion: Logo → Java (97% in the board exam, a national-level coding selection in Class 12, and a firm belief that semicolons are load-bearing) → a Bachelor's in **Mathematics, Physics and Computer Science**, three subjects that, contrary to how universities like to timetable them, actually get along rather well→ a Master's in Physics, where MATLAB and Python quietly became load-bearing infrastructure rather than "electives."
 
 Somewhere in undergrad I also taught myself Alteryx, entirely uninvited, while everyone around me remained blissfully unaware it existed. I regret nothing.
 
