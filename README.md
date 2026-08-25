@@ -1,4 +1,4 @@
-# Hi, I'm Nidarshana 👋
+# Hola, Je suis Nidarshana 👋
 
 At age 8, I typed `FD 20` and `RT 90` into Logo and watched a small triangle draw a square. I was thoroughly unprepared for how much of my life this would go on to explain.
 
