@@ -16,10 +16,13 @@ Somewhere in undergrad I also taught myself Alteryx, entirely uninvited, while e
 ### A note on consistency
 
 I am, as of recently, committing daily, which for context is longer than most of my New Year's resolutions have ever survived.
+### Also, apparently, this
+
+In addition to talking to computers, I can talk to humans in **Hindi**, **English**, **Spanish**, and **French**, read and write **Russian**, and know **Sanskrit**.
 
 ### Toolbox
 
-`Python` `MATLAB` `SQL` `R` · `Power BI` `Tableau` `Alteryx` · `Pandas` `NumPy` `SciPy`
+`Python` `MATLAB` `SQL` `R` `JAVA`· `Power BI` `Tableau` `Alteryx` `MS Office`· `Pandas` `NumPy` `SciPy` `Machine Learning`
 
 ### Further reading, should you be so inclined
 
