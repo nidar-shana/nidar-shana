@@ -28,4 +28,4 @@ I am, as of recently, committing daily, which for context is longer than most of
 - 💼 [LinkedIn](https://www.linkedin.com/in/nidarshanap)
 
 ---
-*Work Hard. Be Delusional. Cite Your Sources.*
+*Work Hard. Be Delusional.*
