@@ -24,7 +24,7 @@ In addition to talking to computers, I can speak **Hindi**, **English**, **Spani
 `Python` `MATLAB` `SQL` `R` `JAVA`· `Power BI` `Tableau` `Alteryx` `MS Office`· `Pandas` `NumPy` `SciPy` `Machine Learning`
 
 
-### Connect
+### Well...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidarshanap)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidar-shana)
