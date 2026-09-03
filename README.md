@@ -24,7 +24,7 @@ In addition to talking to computers, I can speak **Hindi**, **English**, **Spani
 `Python` `MATLAB` `SQL` `R` `JAVA`· `Power BI` `Tableau` `Alteryx` `MS Office`· `Pandas` `NumPy` `SciPy` `Machine Learning`
 
 
-### Well...
+### Well,
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nidarshana)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nidarshana_/)
