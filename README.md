@@ -24,7 +24,7 @@ In addition to talking to computers, I can speak **Hindi**, **English**, **Spani
 
 ### Toolbox
 
-`Python` `MATLAB` `SQL` `R` `JAVA`· `Power BI` `Tableau` `Alteryx` `MS Office`· `Pandas` `NumPy` `SciPy` `Machine Learning` `NLP`
+`MLOps` `Python` `MATLAB` `SQL` `R` `JAVA`· `Power BI` `Tableau` `Alteryx` `MS Office`· `Pandas` `NumPy` `SciPy` `Machine Learning` `NLP`
 
 
 ### Well,
