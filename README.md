@@ -4,9 +4,6 @@ At age 8, I typed `FD 20` and `RT 90` into Logo and watched a little triangle tr
 
 From there: Java in school (97% in my board exam, a national-level coding selection in Class 12) → a Bachelor's spanning **Mathematics, Physics and Computer Science**, three subjects that turned out to complement each other beautifully → a Master's in Physics, where MATLAB and Python became everyday tools for turning raw experimental data into real insight.
 
-
-Currently, pursuing Master's in **Economics.**
-
 ### Current professional endeavours
 
 -  **[E-Commerce Sales Analysis Dashboard](https://github.com/nidar-shana/DataAnalysis)** — an interactive Power BI report with joined tables, calculated measures, and drill-down visualizations
