@@ -13,7 +13,7 @@ From there: Java in school (97% in my board exam, a national-level coding select
 
 ### A note on consistency
 
-I'm a streak freak. I show a tendency towards daily commitment: the kind of habit that compounds.
+I'm a streak freak. I show a tendency towards daily commitment: the kind of habit that compounds.(ALWAYS!)
 
 ### Also, apparently, this
 
