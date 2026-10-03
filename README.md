@@ -7,7 +7,7 @@ From there: Java in school (97% in my board exam, a national-level coding select
 ### Current endeavours
 
 -  **[E-Commerce Sales Analysis Dashboard](https://github.com/nidar-shana/DataAnalysis)** — an interactive Power BI report with joined tables, calculated measures, and drill-down visualizations
-- **Trading-al** — exploring data sourcing and linear regression on financial time series
+- **[Trading-al](https://github.com/nidar-shana/Trading-al)** — exploring data sourcing and linear regression on financial time series
 - **vibecheck** — a small app headed for the Play Store(maybe), currently in the "it works on my machine" phase of development
 -  **[Research on Quantum Key Distribution at MeitY](https://www.tandfonline.com/doi/abs/10.1080/09500340.2026.2628815)** — statistical noise-filtering algorithms and automated analysis pipelines.
 
