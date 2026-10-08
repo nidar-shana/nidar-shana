@@ -16,7 +16,7 @@ Currently exploring the world of **Economics**.
 
 ### A note on consistency
 
-I'm a huge streak freak. I show a tendency towards daily commitment: the kind of habit that compounds.(ALWAYS!)
+I'm a huge streak freak. I show a tendency towards daily commitment: the habit that always compounds!
 
 ### Also, apparently, this
 
