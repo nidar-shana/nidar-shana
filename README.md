@@ -12,7 +12,7 @@ Currently exploring the world of **Economics**.
 
 -  **[E-Commerce Sales Analysis Dashboard](https://github.com/nidar-shana/DataAnalysis)** — an interactive Power BI report with joined tables, calculated measures, and drill-down visualizations
 - **[Trading-al](https://github.com/nidar-shana/Trading-al)** — exploring data sourcing and linear regression on financial time series
--  **[Research on Quantum Key Distribution at MeitY](https://www.tandfonline.com/doi/abs/10.1080/09500340.2026.2628815)** — statistical noise-filtering algorithms and automated analysis pipelines.
+-  **[Research on Quantum Key Distribution at MeitY](https://www.tandfonline.com/doi/abs/10.1080/09500340.2026.2628815)** — statistical noise-filtering algorithms and mitigated the noise effects.
 
 ### A note on consistency
 
