@@ -6,7 +6,7 @@ That small spark of "I told the computer what to do" turned into a genuine, life
 From there: Java in school (97% in my board exam, a national-level coding selection in Class 12) → a Bachelor's spanning **Mathematics, Physics and Computer Science**, three subjects that turned out to complement each other beautifully → a Master's in Physics, where MATLAB and Python became everyday tools for turning raw experimental data into real insights.
 
 
-Currently exploring the world of **Economics**.
+Currently, mastering **Economics**.
 
 ### Current endeavours
 
