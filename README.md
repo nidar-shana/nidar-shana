@@ -16,7 +16,7 @@ Currently, pursuing master's in **Economics**.
 
 ### A note on consistency
 
-I'm a huge streak freak. I show a tendency towards daily commitment: the habit that always compounds!
+I'm a streak freak. I show a tendency towards daily commitment: the habit that always compounds!
 
 ### Also, apparently, this
 
