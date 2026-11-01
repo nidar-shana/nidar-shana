@@ -5,7 +5,7 @@ That small spark of "I told the computer what to do" turned into a genuine, life
 
 From there: Java in school (97% in my board exam, a national-level coding selection in Class 12) → a Bachelor's spanning **Mathematics, Physics and Computer Science**, three subjects that turned out to complement each other at a very large scale (more than I had even envisioned!), and, a Master's in Physics, where I was further exposed to several mechanisms of the Universe.
 
-Currently, pursuing master's in **Economics**.
+Currently, gaining exposure in **Economics**.
 
 ### Current endeavours
 
