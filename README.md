@@ -5,7 +5,7 @@ That small spark of "I told the computer what to do" turned into a genuine, life
 
 From there: Java in school → a Bachelor's spanning **Mathematics, Physics and Computer Science**, three subjects that turned out to complement each other at a very large scale (more than I had even envisioned!), and, a Master's in Physics, where I was further exposed to several mechanisms of the Universe.
 
-Currently, gaining exposure in **Economics** and serving in Surveillance at RMG.
+Currently, gaining exposure in **Economics** and working through surveillance and Data Governance.
 
 ### Current endeavours
 
