@@ -22,7 +22,7 @@ I'm a streak freak. I show a tendency towards daily commitment. It helps me stay
 In addition to talking to computers, I can speak **Hindi**, **English**, **Spanish**, and **French**, read and write **Russian**, and know **Sanskrit**.
 
 ### Toolbox
-`DevOps` `MLOps` `Python` `SQL` `R` `JAVA`· `Power BI` `Tableau` `Alteryx`· `Machine Learning` `NLP`
+`DevOps` `MLOps` `Python` `SQL` `R` `JAVA`· `Power BI` `Alteryx`· `Machine Learning` `NLP`
 
 
 ### Well,
