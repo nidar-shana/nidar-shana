@@ -1,4 +1,4 @@
-# Hola, Je suis Nidarshana! 👋
+# Hola, I am Nidarshana! 👋
 
 When I was 8, I typed `FD 20` and `RT 90` into Logo and watched a little triangle trace out a square on screen, and I was really fascinated!
 That small spark of "I told the computer what to do" turned into a genuine, lifelong love for computation!
