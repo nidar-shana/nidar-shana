@@ -15,7 +15,7 @@ Currently, gaining exposure in **Economics** and working through MLOps and DevOp
 
 ### A note on consistency
 
-I'm a streak freak. I show a tendency towards daily commitment. It helps me stay consistent.
+I'm a streak freak. I show a tendency towards daily commitment. It helps me stay consistent and motivated.
 
 ### Also, apparently, this
 
